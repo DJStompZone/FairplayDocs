@@ -6,12 +6,12 @@ coverY: -1.8426103646832956
 # 🚀 Quick Start
 
 {% hint style="warning" %}
-## <img src=".gitbook/assets/doggosaurus[1].png" alt="" data-size="line">Halp!
+## <img src=".gitbook/assets/doggosaurus[1].png" alt="" data-size="line">**Heads up**!
 
-**Heads up!**
-
-Putting something here is probably a good idea, but I sure don't know what to put.&#x20;
+**You'll need an API key to use Fairplay v4**
 {% endhint %}
+
+
 
 {% embed url="https://www.youtube.com/watch?v=3MWOGM_2Plw" %}
 We get it, docs aren't for everyone. Here's a quick demonstration if you aren't in the mood to read.
