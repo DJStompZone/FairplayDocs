@@ -4,110 +4,119 @@ coverY: 101.34357005758157
 
 # 🔧 Miscellaneous
 
-## brchat
+
+<details>
+
+<summary>/<mark style="color:orange;">brchat</mark></summary>
 
 Configure where you want Realmchat to go
 
-### Interaction ID
-
-1037442207071875200
-
-### Usage
-
 `/brchat <channel>`
 
-## brlogs
+ID# 1037442207071875200
+
+</details>
+
+
+<details>
+
+<summary>/<mark style="color:orange;">brlogs</mark></summary>
 
 Point where you want join/leave logs to go
 
-### Interaction ID
-
-1038639694826700900
-
-### Usage
-
 `/brlogs <channel>`
 
-## bfairplay
+ID# 1038639694826700900
+
+</details>
+
+
+<details>
+
+<summary>/<mark style="color:orange;">bfairplay</mark></summary>
 
 Choose where you want fairplay logs to go
 
-### Interaction ID
-
-1037442207071875200
-
-### Usage
-
 `/bfairplay <channel>`
 
-## bskinlookup
+ID# 1037442207071875200
+
+</details>
+
+
+<details>
+
+<summary>/<mark style="color:orange;">bskinlookup</mark></summary>
 
 Steal a users skin if they joined a realm with Fairplay
 
-### Interaction ID
-
-1038273596071616500
-
-### Usage
-
 `/bskinlookup <username>`
 
-## blastplayed
+ID# 1038273596071616500
+
+</details>
+
+
+<details>
+
+<summary>/<mark style="color:orange;">blastplayed</mark></summary>
 
 Check a users last played games
 
-### Interaction ID
-
-1033584500594192400
-
-### Usage
-
 `/blastplayed <username>`
 
-## bdbsearch
+ID# 1033584500594192400
+
+</details>
+
+
+<details>
+
+<summary>/<mark style="color:orange;">bdbsearch</mark></summary>
 
 Check Fairplay database for kick logs of a user
 
-### Interaction ID
-
-1037855679085543400
-
-### Usage
-
 `/bdbsearch <username>`
 
-## bconfig
+ID# 1037855679085543400
+
+</details>
+
+
+<details>
+
+<summary>/<mark style="color:orange;">bconfig</mark></summary>
 
 Check your automod configuration
 
-### Interaction ID
-
-1037123667093639200
-
-### Usage
-
 `/bconfig`
 
-## disconnect
+ID# 1037123667093639200
+
+</details>
+
+
+<details>
+
+<summary>/<mark style="color:orange;">disconnect</mark></summary>
 
 Disconnect your main account from Fairplay+
 
-### Interaction ID
-
-1040051905038135400
-
-### Usage
-
 `/disconnect`
 
-## bdisconnect
+ID# 1040051905038135400
+
+</details>
+
+
+<details>
+
+<summary>/<mark style="color:orange;">bdisconnect</mark></summary>
 
 Disconnect your bot account from fairplay, note this will not remove your Fairplay instance, open a ticket to remove your instance.
 
-### Interaction ID
-
-1040051905038135400
-
-### Usage
-
 `/bdisconnect`
+
+ID# 1040051905038135400
+
+</details>

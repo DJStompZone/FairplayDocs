@@ -1,0 +1,89 @@
+{
+    "heading": "---\ncoverY: -40.537428023032625\n---\n\n# \u00f0\u0178\u2018\u2018 Premium\n",
+    "sections": [
+        {
+            "name": "pusername",
+            "description": "Change the bots username inside the game.",
+            "id": "1040484200706478200",
+            "usage": "`/pusername <username>`"
+        },
+        {
+            "name": "pcheck",
+            "description": "Check how many premuim credits you have remaining.",
+            "id": "1041090429594112100",
+            "usage": "`/pcheck`"
+        },
+        {
+            "name": "plookup",
+            "description": "Lookup a realm, and gather basic info from it.",
+            "id": "1041509303590326400",
+            "usage": "`/plookup <realmcode>`"
+        },
+        {
+            "name": "pip",
+            "description": "Get the ip address from a realm code.",
+            "id": "1041522365953212400",
+            "usage": "`/pip <realmcode>`"
+        },
+        {
+            "name": "plockdown",
+            "description": "Enable if you would like to require users to link their microsoft account to join your realm, run this command inside of your guild!",
+            "id": "1043787259922616300",
+            "usage": "`/plockdown`"
+        },
+        {
+            "name": "plogs",
+            "description": "Point to a channel to recieve verification logs",
+            "id": "1043787259922616300",
+            "usage": "`/plogs <channel>`"
+        },
+        {
+            "name": "pgamerscore",
+            "description": "Toggle the minimum amount of gamerscore to verify their account.",
+            "id": "1043787259922616300",
+            "usage": "`/pgamerscore <amount>`"
+        },
+        {
+            "name": "pfollowers",
+            "description": "Toggle the minimum amount of Followers to verify their account.",
+            "id": "1043787259922616300",
+            "usage": "`/pfollowers <amount>`"
+        },
+        {
+            "name": "pfriends",
+            "description": "Toggle the minimum amount of Friends to verify their account.",
+            "id": "1043787259922616300",
+            "usage": "`/pfriends <amount>`"
+        },
+        {
+            "name": "pgames",
+            "description": "Toggle the minimum amount of games played to verify their account.",
+            "id": "1043787259922616300",
+            "usage": "`/pgames <amount>`"
+        },
+        {
+            "name": "pdevices",
+            "description": "Toggle which games block a user from verifying their account.",
+            "id": "1043787259922616300",
+            "usage": "`/pdevices`"
+        },
+        {
+            "name": "pbannedtime",
+            "description": "Hours since a user can play a banned device.",
+            "id": "1043787259922616300",
+            "usage": "`/pbannedtime <hours>`"
+        },
+        {
+            "name": "pautoban",
+            "description": "Autoban anybody who was flagged by fairplay.",
+            "id": "1043375448924627100",
+            "usage": "`/pautoban`"
+        },
+        {
+            "name": "ppresence",
+            "description": "Detect which devices a user is currently logged into.",
+            "id": "1046087562965553200",
+            "usage": "`/ppresence`"
+        }
+    ]
+}

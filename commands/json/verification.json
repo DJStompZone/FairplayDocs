@@ -1,0 +1,23 @@
+{
+    "heading": "---\ncoverY: 200.84452975047984\n---\n\n# \u00f0\u0178\u201d\u017d Verification\n",
+    "sections": [
+        {
+            "name": "verify",
+            "description": "Begin the Fairplay Verification process",
+            "id": "1043787259922616300",
+            "usage": "`/verify`"
+        },
+        {
+            "name": "reinvite",
+            "description": "Reinvite your setup account to the realm",
+            "id": "1043787259922616300",
+            "usage": "`/reinvite`"
+        },
+        {
+            "name": "vdisconnect",
+            "description": "Remove your account from fairplay database",
+            "id": "1043787259989741600",
+            "usage": "`/vdisconnect`"
+        }
+    ]
+}

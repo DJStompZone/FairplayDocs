@@ -4,38 +4,41 @@ coverY: 200.84452975047984
 
 # 🔎 Verification
 
-## verify
+
+<details>
+
+<summary>/<mark style="color:orange;">verify</mark></summary>
 
 Begin the Fairplay Verification process
 
-### Interaction ID
-
-1043787259922616300
-
-### Usage
-
 `/verify`
 
-## reinvite
+ID# 1043787259922616300
+
+</details>
+
+
+<details>
+
+<summary>/<mark style="color:orange;">reinvite</mark></summary>
 
 Reinvite your setup account to the realm
 
-### Interaction ID
-
-1043787259922616300
-
-### Usage
-
 `/reinvite`
 
-## vdisconnect
+ID# 1043787259922616300
+
+</details>
+
+
+<details>
+
+<summary>/<mark style="color:orange;">vdisconnect</mark></summary>
 
 Remove your account from fairplay database
 
-### Interaction ID
-
-1043787259989741600
-
-### Usage
-
 `/vdisconnect`
+
+ID# 1043787259989741600
+
+</details>

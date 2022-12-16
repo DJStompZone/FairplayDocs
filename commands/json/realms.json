@@ -1,0 +1,95 @@
+{
+    "heading": "---\ncoverY: 344.56813819577735\n---\n\n# \u00f0\u0178\u0152\u017d Realms\n",
+    "sections": [
+        {
+            "name": "backup",
+            "description": "Backup your realm to a certain time period",
+            "id": "1032775928889233500",
+            "usage": "`/backup, then use the dropdown provided`"
+        },
+        {
+            "name": "ban",
+            "description": "Ban a user from joining your realm using their username",
+            "id": "1032092846230098000",
+            "usage": "`/ban <username> <reason>`"
+        },
+        {
+            "name": "unban",
+            "description": "Unban a user from your realm using their username",
+            "id": "1032421734965588100",
+            "usage": "`/unban <username> <reason>`"
+        },
+        {
+            "name": "close",
+            "description": "Close your realm, preventing people from joining",
+            "id": "1032458785966534700",
+            "usage": "`/close`"
+        },
+        {
+            "name": "open",
+            "description": "Open your realm, allowing people to join",
+            "id": "1032461629557854200",
+            "usage": "`/open`"
+        },
+        {
+            "name": "logs",
+            "description": "Point to a channel in which you would like command logs to go",
+            "id": "1032462532209823700",
+            "usage": "`/logs <channel>`"
+        },
+        {
+            "name": "permissions",
+            "description": "Change a users permissions on your realm",
+            "id": "1035316987343163400",
+            "usage": "`/permissions <username> <level>`"
+        },
+        {
+            "name": "rename",
+            "description": "Change your realms name and description from discord",
+            "id": "1043989826703204500",
+            "usage": "`/rename <title> <description>`"
+        },
+        {
+            "name": "rinvite",
+            "description": "Invite a user to your realm",
+            "id": "1043993242905096300",
+            "usage": "`/rinvite <username>`"
+        },
+        {
+            "name": "players",
+            "description": "Check online players in your realm",
+            "id": "1034920886563782700",
+            "usage": "`/players`"
+        },
+        {
+            "name": "profile",
+            "description": "Configure your Fairplay profile",
+            "id": "1033500825445736400",
+            "usage": "`/profile, then click the dropdown selection`"
+        },
+        {
+            "name": "realmcode",
+            "description": "Get your realm code",
+            "id": "1044401592100737000",
+            "usage": "`/realmcode`"
+        },
+        {
+            "name": "warns",
+            "description": "Setup warns system on your realm",
+            "id": "1045840903992004700",
+            "usage": "`/warns <channel> <limit>`"
+        },
+        {
+            "name": "warn",
+            "description": "Warn a username, if they exceed your limit they are banned from your realm",
+            "id": "1045840903992004700",
+            "usage": "`/warn <username>`"
+        },
+        {
+            "name": "cwarns",
+            "description": "Check how many warns a user has",
+            "id": "1045840903992004700",
+            "usage": "`/cwarns <username>`"
+        }
+    ]
+}
