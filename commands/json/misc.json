@@ -1,0 +1,59 @@
+{
+    "heading": "---\ncoverY: 101.34357005758157\n---\n\n# \u00f0\u0178\u201d\u00a7 Miscellaneous\n",
+    "sections": [
+        {
+            "name": "brchat",
+            "description": "Configure where you want Realmchat to go",
+            "id": "1037442207071875200",
+            "usage": "`/brchat <channel>`"
+        },
+        {
+            "name": "brlogs",
+            "description": "Point where you want join/leave logs to go",
+            "id": "1038639694826700900",
+            "usage": "`/brlogs <channel>`"
+        },
+        {
+            "name": "bfairplay",
+            "description": "Choose where you want fairplay logs to go",
+            "id": "1037442207071875200",
+            "usage": "`/bfairplay <channel>`"
+        },
+        {
+            "name": "bskinlookup",
+            "description": "Steal a users skin if they joined a realm with Fairplay",
+            "id": "1038273596071616500",
+            "usage": "`/bskinlookup <username>`"
+        },
+        {
+            "name": "blastplayed",
+            "description": "Check a users last played games",
+            "id": "1033584500594192400",
+            "usage": "`/blastplayed <username>`"
+        },
+        {
+            "name": "bdbsearch",
+            "description": "Check Fairplay database for kick logs of a user",
+            "id": "1037855679085543400",
+            "usage": "`/bdbsearch <username>`"
+        },
+        {
+            "name": "bconfig",
+            "description": "Check your automod configuration",
+            "id": "1037123667093639200",
+            "usage": "`/bconfig`"
+        },
+        {
+            "name": "disconnect",
+            "description": "Disconnect your main account from Fairplay+",
+            "id": "1040051905038135400",
+            "usage": "`/disconnect`"
+        },
+        {
+            "name": "bdisconnect",
+            "description": "Disconnect your bot account from fairplay, note this will not remove your Fairplay instance, open a ticket to remove your instance.",
+            "id": "1040051905038135400",
+            "usage": "`/bdisconnect`"
+        }
+    ]
+}

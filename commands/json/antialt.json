@@ -1,0 +1,29 @@
+{
+    "heading": "---\ncoverY: 265.33589251439537\n---\n\n# \u00f0\u0178\u203a\u00a1 Anti-Alting\n",
+    "sections": [
+        {
+            "name": "bfollowers",
+            "description": "Minimum amount of followers to join your realm",
+            "id": "1037120157421666400",
+            "usage": "`/bfollowers <amount>`"
+        },
+        {
+            "name": "bfriends",
+            "description": "Minimum amount of friends to join your realm",
+            "id": "1037123470418522100",
+            "usage": "`/bfriends <amount>`"
+        },
+        {
+            "name": "bgamerscore",
+            "description": "Minimum amount of gamerscore to join your realm",
+            "id": "1037085512835547300",
+            "usage": "`/bgamerscore <amount>`"
+        },
+        {
+            "name": "bgames",
+            "description": "Toggle the minimum amount of games to join",
+            "id": "1037136618466844700",
+            "usage": "`/bgames <amount>`"
+        }
+    ]
+}
