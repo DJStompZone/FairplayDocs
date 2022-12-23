@@ -19,7 +19,8 @@ We get it, docs aren't for everyone. Here's a quick demonstration if you aren't 
 
 ## Invite the Bot
 
-Before you can do much of anything, you'll need to start by **inviting Fairplay V4 to your Discord server**. If you haven't already, you can do that [right here](https://discord.com/api/v9/oauth2/authorize?client\_id=1028476352401248406\&scope=bot%20applications.commands).
+Before you can do much of anything else, you'll need to invite **Fairplay V4 to your Discord server**. \
+If you haven't already, you can do that [**right here**](https://discord.com/api/v9/oauth2/authorize?client\_id=1028476352401248406\&scope=bot%20applications.commands).
 
 ## Customize your settings
 
